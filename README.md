@@ -6,4 +6,6 @@
 ### https://leetcode.com/problems/palindrome-pairs/
 ### https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
 ### https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
-### Union Find: https://leetcode.com/problems/satisfiability-of-equality-equations/
+## Union Find (DSU): 
+### https://leetcode.com/problems/satisfiability-of-equality-equations/
+### https://leetcode.com/problems/number-of-good-paths/
