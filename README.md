@@ -10,4 +10,5 @@
 ## Union Find (DSU): 
 ### https://leetcode.com/problems/satisfiability-of-equality-equations/
 ### https://leetcode.com/problems/number-of-good-paths/
-### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/ (SOLVE USING DIGIT DP)
+### DIGIT DP:
+### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
