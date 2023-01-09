@@ -14,3 +14,6 @@
 ### https://leetcode.com/problems/word-search-ii/
 ## DIGIT DP:
 ### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
+
+# PROBS-TBS
+### https://www.lintcode.com/problem/1307/
