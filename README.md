@@ -16,6 +16,7 @@
 ### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
 
 # MED-PROBS-TBS
+## TREE:
 ### https://www.lintcode.com/problem/1307/
 ## GRAPH:
 ### https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/
