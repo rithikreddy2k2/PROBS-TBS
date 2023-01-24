@@ -16,3 +16,4 @@
 ### https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/
 
 # MED-PROBS-TBS
+### https://leetcode.com/problems/snakes-and-ladders/
