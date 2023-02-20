@@ -1,4 +1,5 @@
 # HARD-PROBS-TBS
+### https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/ (Solve Using BIT)
 ### https://leetcode.com/problems/count-the-number-of-ideal-arrays/
 ### https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
 ### https://leetcode.com/problems/maximum-segment-sum-after-removals/
