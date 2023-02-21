@@ -19,3 +19,4 @@
 
 # MED-PROBS-TBS
 ### https://leetcode.com/problems/snakes-and-ladders/
+### https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ (SOLVE USING BIT MASKING)
