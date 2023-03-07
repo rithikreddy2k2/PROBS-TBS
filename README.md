@@ -21,3 +21,6 @@
 ### https://leetcode.com/problems/snakes-and-ladders/
 ### https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ (SOLVE USING BIT MASKING)
 ### https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ (USING KMP)
+
+# EASY-PROBS-TBS
+### https://leetcode.com/problems/kth-missing-positive-number/ (View Both Binary Search and O(n) with No Space Solutions)
